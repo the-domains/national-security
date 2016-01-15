@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[National Security Thoughts]]></title>
+        <description><![CDATA[National Security Thoughts]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Jan 2016 16:45:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>For every complex problem, there is an answer that si clear, simple, and wrong.  From the Middle East to China, the United States faces serious challenges.  We need serious people to confront them.</p>]]></description>
+            <link>undefined206dcae9-5656-4a3a-901d-44e605bb44c7/index.html</link>
+            <guid isPermaLink="false">206dcae9-5656-4a3a-901d-44e605bb44c7</guid>
+            <pubDate>Fri, 15 Jan 2016 16:44:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
